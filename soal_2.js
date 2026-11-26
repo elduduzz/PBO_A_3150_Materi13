@@ -25,7 +25,7 @@ class RobotRumah {
     this.nama = nama;
   }
 }
-
+// asdsa
 class RobotKurir {
   constructor(nama) {
     this.nama = nama;
